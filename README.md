@@ -69,7 +69,7 @@ These metrics provide insight into:
 - Excel	Data cleaning and preparation
 - CSV Dataset	Primary dataset
 
-Optional tools used in preparation:
+Other tools used in preparation:
 - Data aggregation in Excel
 - Tableau calculated fields
 - Interactive filtering by year
@@ -174,8 +174,7 @@ Based on the insights generated from the dashboard:
 
 ## 🧾 Conclusion
 This project demonstrates how data visualization tools like Tableau can transform large energy datasets into actionable insights.
-
-## Key findings highlights includes:
+**Key findings highlights includes:**
 - Dominance of fossil fuels in global consumption
 - Regional concentration of oil production
 - Rising but still limited renewable energy adoption
